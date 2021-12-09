@@ -25,7 +25,9 @@
     <img align="center" alt="Daniel-MySQL" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Daniel-Linux" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
     <img align="center" alt="Daniel-Git" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     <img align="right" alt="Daniel-merge" height="30" width="40" src = "https://giphy.com/embed/cFkiFMDg3iFoI" />
+     <img align="right" alt="Daniel-Pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/cFkiFMDg3iFoI/giphy.gif?cid=ecf05e471rjyrlowl3e5hs58mfhzikuqpcvzc1qu4hm7uhvn&rid=giphy.gif&ct=g" />
+     
+   
   </div>
   
  ##
