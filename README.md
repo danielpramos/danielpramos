@@ -21,6 +21,7 @@
     <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Daniel-C++" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Daniel-Arduino" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+    <img align="center" alt="Daniel-Eclipse" height="30" width="40" src = "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" /> 
     <img align="center" alt="Daniel-VsCode" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="center" alt="Daniel-MySQL" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="Daniel-Linux" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
