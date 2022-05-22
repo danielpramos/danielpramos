@@ -2,7 +2,7 @@
 
 
 
-- 🧑🏻‍💻 Desenvolvedor Java FullStack Jr 🚀💻👨‍💻 | Formado atualmente na GENERATION BRASIL
+- 🧑🏻‍💻 Desenvolvedor Java 🚀💻👨‍💻 | Formado atualmente na GENERATION BRASIL
 - 🧑🏻‍💻 Técnico em Automação Industrial 🚀💻👨‍💻 | Etec Júlio de Mesquita
 - 🧑🏻‍💻 React | Typescript | Html5 | CSS3 |  SCRUM | Java | API's REST | Spring Boot | MySQL
 
