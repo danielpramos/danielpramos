@@ -127,8 +127,7 @@ ___
     <br>
     <br>    
         <div align="left" >
-             <a href="https://otakugeek.vercel.app/">
-            <h2>Meu Blog Pessoal  🍀🍃</h2></a>
+            [<h2>Meu Blog Pessoal  🍀🍃</h2>](https://otakugeek.vercel.app/)
              <a href="https://gotadagua.vercel.app/">
             <h2>Site GotaDagua   💻💻</h2></a>
         </div>           
@@ -140,7 +139,6 @@ ___
 <br>
 <br>
     <div align="center" >
-            <a href="https://github.com/danielpramos">
             <h4>OBRIGADO PELA VISITA </h4></a>
             <a href="https://discord.com/channels/Daniel Pinheiro#0179">
             <img  align="center" alt="Discord" height="30" width="40" fill="white" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" /></a>
