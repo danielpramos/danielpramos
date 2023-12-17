@@ -121,7 +121,7 @@ ___
   ![Snake animation](https://github.com/danielpramos/danielpramos/blob/output/github-contribution-grid-snake.svg)
         <div>
             <a href="https://otakugeek.vercel.app/">
-            <img align="right" alt="Meu Blog Pessoal" src="https://i.imgur.com/1QFSEp3.png" alt="" width="300" />
+            <img align="right" alt="Meu Blog Pessoal" src="https://i.imgur.com/1QFSEp3.png" alt="" width="250" />
             </a>
         </div>
     <br>
@@ -140,7 +140,7 @@ ___
 <br>
 <br>
     <div align="center" >
-            <h4>OBRIGADO PELA VISITA </h4></a>
+            <h4>OBRIGADO PELA VISITA </h4>
             <a href="https://discord.com/channels/Daniel Pinheiro#0179">
             <img  align="center" alt="Discord" height="30" width="40" fill="white" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" /></a>
             <a href="https://https://facebook.com/daniel.pinheiro.92102">
