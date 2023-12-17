@@ -128,7 +128,7 @@ ___
     <br>    
         <div align="left" >
              <a href="https://otakugeek.vercel.app/">
-            <h2>Meu Blog Pessoal  🍀🍃</h2></a>
+            Meu Blog Pessoal  🍀🍃</a>
              <a href="https://gotadagua.vercel.app/">
             <h2>Site GotaDagua   💻💻</h2></a>
         </div>           
