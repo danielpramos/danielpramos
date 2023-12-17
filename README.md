@@ -126,12 +126,13 @@ ___
         </div>
     <br>
     <br>    
-        <div align="left" >
-            [<h2>Meu Blog Pessoal  🍀🍃</h2>](https://otakugeek.vercel.app/)
-             <a href="https://gotadagua.vercel.app/">
-            <h2>Site GotaDagua   💻💻</h2></a>
-        </div>           
   </div>
+        
+        
+  [<h2>Meu Blog Pessoal  🍀🍃</h2>](https://otakugeek.vercel.app/)
+  <a href="https://gotadagua.vercel.app/">
+  <h2>Site GotaDagua   💻💻</h2></a>
+                  
 
 <br>
 <br>
