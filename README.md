@@ -1,6 +1,6 @@
 <br>
 
-# Olá, eu sou Daniel Pinheiro 👋   
+# [Olá, eu sou Daniel Pinheiro 👋](https://www.linkedin.com/in/dnldev/)   
 
 <div align="right" >
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdanielpramos"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdanielpramos&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
