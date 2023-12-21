@@ -127,7 +127,7 @@ ___
     <br>
     <br>    
         <div align="left" >
-            [Meu Blog Pessoal    🍀🍃](https://otakugeek.vercel.app/)     
+            [Blog Pessoal    🍀🍃](https://otakugeek.vercel.app/)     
         </div>        
         <div align="left" >
             [Site GotaDagua   💻💻](https://gotadagua.vercel.app/)     
